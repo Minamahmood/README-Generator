@@ -1,0 +1,14 @@
+{
+  "name": "readme-easy",
+  "version": "1.0.0",
+  "description": "this app make areadme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mina",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
